@@ -72,7 +72,7 @@ The accuracy score of the model is 86%. That means that the model predicts wheth
 ## For More Information
 ***
 
-See the full analysis in the [`Jupyter Notebook`](https://github.com/FridahKimathi/Water-Pump-Functionality-Prediction-in-Tanzania/blob/main/index.ipynb) or review this [`presentation`](https://github.com/FridahKimathi/Water-Pump-Functionality-Prediction-in-Tanzania/blob/main/Water%20Pump%20Functionality%20Prediction%20PPT.pdf).
+See the full analysis in the [`Jupyter Notebook`](https://github.com/FridahKimathi/Bank-Customer-Churn-Prediction/blob/main/index.ipynb) or review this [`presentation`](https://github.com/FridahKimathi/Water-Pump-Functionality-Prediction-in-Tanzania/blob/main/Water%20Pump%20Functionality%20Prediction%20PPT.pdf).
 
 For additional info, contact Fridah Kimathi at [`fridahnkirotekimathi@gmail.com`](mailto:fridahnkirotekimathi@gmail.com) or via my [`LinkedIn profile`](https://www.linkedin.com/in/fridah-kimathi-91608418b/).
 
@@ -83,7 +83,7 @@ For additional info, contact Fridah Kimathi at [`fridahnkirotekimathi@gmail.com`
 ```
 ├── Data
 ├── images
+├── Bank Customer Churn Prediction Presentation.pdf
 ├── index.ipynb
-├── README.md
-└── PPT
+└── README.md
 ```
