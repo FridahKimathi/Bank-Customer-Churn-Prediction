@@ -68,15 +68,19 @@ The accuracy score of the model is 86%. That means that the model predicts wheth
 
 * **Foster customer loyalty programs:** Introduce loyalty programs, rewards, and exclusive benefits for long-standing customers. By offering incentives for continued engagement, the bank can encourage customers to remain loyal and reduce the temptation to switch to competitors.
 
+## Future work
+***
+
+* **Enhanced data analysis:** Explore additional customer behavioral and demographic variables that may improve the accuracy of churn prediction.
+
+* **Real-time monitoring:** Develop a system for real-time monitoring of customer behavior and engagement to identify customers at immediate risk of churn. This will enable the bank to intervene promptly with targeted retention strategies.
 
 ## For More Information
 ***
 
-See the full analysis in the [`Jupyter Notebook`](https://github.com/FridahKimathi/Bank-Customer-Churn-Prediction/blob/main/index.ipynb) or review this [`presentation`](https://github.com/FridahKimathi/Water-Pump-Functionality-Prediction-in-Tanzania/blob/main/Water%20Pump%20Functionality%20Prediction%20PPT.pdf).
+See the full analysis in the [`Jupyter Notebook`](https://github.com/FridahKimathi/Bank-Customer-Churn-Prediction/blob/main/index.ipynb) or review this [`presentation`](https://github.com/FridahKimathi/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%C2%A0Churn%C2%A0Prediction%20Presentation.pdf).
 
 For additional info, contact Fridah Kimathi at [`fridahnkirotekimathi@gmail.com`](mailto:fridahnkirotekimathi@gmail.com) or via my [`LinkedIn profile`](https://www.linkedin.com/in/fridah-kimathi-91608418b/).
-
-
 
 ## Repository Structure
 
